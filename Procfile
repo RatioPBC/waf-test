@@ -1,1 +1,0 @@
-web: elixir bandit.exs
